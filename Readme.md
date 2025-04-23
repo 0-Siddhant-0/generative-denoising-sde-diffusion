@@ -30,7 +30,7 @@ The model uses a U-Net architecture with self-attention modules containing:
 ![Forward Process](ppt/forward_process.gif)
 
 ### Reverse Process (Noise → Data)
-![Reverse Process](ppt/reverse_process_denoising.gif)
+<img src="ppt/reverse_process_denoising.gif" width="450" alt="Reverse Process"/>
 
 ### Denoising Performance
 The diffusion model achieves effective generative denoising on the OrganAMNIST dataset with:
